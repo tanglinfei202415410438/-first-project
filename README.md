@@ -1,5 +1,5 @@
 <img width="1560" height="227" alt="66aec6e77b5ce69b8f33fe858531b189" src="https://github.com/user-attachments/assets/997118d7-1686-4974-9a73-ab5592254e12" /># -first-project
-唐林菲的第一个GitHub测试项目
+唐林菲的第一个GitHub测试项目（图书库存管理）
 # 图书库存管理系统
 
 ## 项目目标
